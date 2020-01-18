@@ -1,0 +1,11 @@
+*{
+    margin : 0 auto;
+    padding: 0;
+}
+
+canvas{
+    margin: 0 auto;
+    display: block;
+    height: 50vh;
+    width: 50vw;
+}
